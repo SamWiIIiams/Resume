@@ -1,5 +1,5 @@
 # Sam Williams
-Sam.m.williams23@gmail.com | 301-787-2133 | [github.com/SamWiIIiams](https://github.com/SamWiIIiams)
+sammwilliams@proton.me | 301-787-2133 | [github.com/SamWiIIiams](https://github.com/SamWiIIiams)
 
 ---
 
@@ -40,7 +40,7 @@ _Mclean, VA | June 2017 – Present_
 
 ## INDEPENDENT PROJECTS
 
-### Jinjnet – Self-Hosted CDN, Email Tools & Containerized Platform (2022 – Present)
+### Jinjnet – Self-Hosted CDN, Email Tools & Containerized Platform (2024 – Present)
 A self-hosted platform providing private photo storage, media streaming, and shared content delivery for friends and family.
 
 - Built a **custom Next.js application** that integrates with **Resend** and expands on its capabilities, including:
